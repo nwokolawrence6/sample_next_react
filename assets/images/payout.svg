@@ -1,0 +1,9 @@
+<svg width="793" height="282" viewBox="0 0 793 282" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="192" width="431" height="282" rx="14" fill="${props => props.theme.secondaryColor}32"/>
+  <line x1="29.5" y1="236.5" x2="145.5" y2="236.5" stroke="rgba(11,19,43,0.1)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="2.5" y1="207.5" x2="51.5" y2="207.5" stroke="#C4C4C4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="674.5" y1="54.5" x2="790.5" y2="54.5" stroke="#cc0122" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="642.5" y1="29.5" x2="701.5" y2="29.5" stroke="rgba(204,2,39,0.1)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="687.5" y1="259.5" x2="746.5" y2="259.5" stroke="#C4C4C4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="86.5" y1="29.5" x2="145.5" y2="29.5" stroke="#0f1c5b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

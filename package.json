@@ -1,0 +1,42 @@
+{
+  "name": "cloud_books",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "next -p 4040",
+    "sitemap": "node sitemap.js",
+    "start": "node server.js",
+    "production": "node server.js",
+    "heroku-prebuild": "rm -rf node_modules && rm -rf package-lock.json",
+    "build": "next build"
+  },
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.0",
+    "@apollo/react-ssr": "^3.1.0",
+    "@zeit/next-css": "^1.0.1",
+    "apollo-boost": "^0.4.4",
+    "classnames": "^2.2.6",
+    "express": "^4.17.1",
+    "formik": "^1.5.8",
+    "graphql": "^14.5.4",
+    "lodash": "^4.17.15",
+    "next": "^9.1.1",
+    "next-apollo": "^3.1.5",
+    "next-images": "^1.1.1",
+    "nextjs-sitemap-generator": "^0.1.1",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-icons": "^3.6.1",
+    "react-spring": "^8.0.27",
+    "react-typing-effect": "^2.0.2",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "styled-components": "^4.2.0",
+    "toastr": "^2.1.4",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.0"
+  }
+}
